@@ -1,10 +1,9 @@
-;;; magit-popup-autoloads.el --- automatically extracted autoloads
+;;; csv-autoloads.el --- automatically extracted autoloads
 ;;
 ;;; Code:
 (add-to-list 'load-path (directory-file-name (or (file-name-directory #$) (car load-path))))
 
-;;;### (autoloads nil nil ("magit-popup-pkg.el" "magit-popup.el")
-;;;;;;  (22930 43497 213847 207000))
+;;;### (autoloads nil nil ("csv.el") (22930 2667 478025 144000))
 
 ;;;***
 
@@ -13,4 +12,4 @@
 ;; no-byte-compile: t
 ;; no-update-autoloads: t
 ;; End:
-;;; magit-popup-autoloads.el ends here
+;;; csv-autoloads.el ends here
